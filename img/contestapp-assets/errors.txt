@@ -1,0 +1,7 @@
+[2018-02-08 15:12:17] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2018-02-08 15:12:17] layer "+ copy": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2018-02-08 15:12:17] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2018-02-08 15:12:17] layer "+ copy": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2018-02-08 15:12:17] layer "+ copy": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2018-02-08 15:12:17] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2018-02-08 15:12:17] layer "+ copy": Expected Either a default asset specification or a layer asset specification but "+" found.
