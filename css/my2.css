@@ -1,3 +1,8 @@
+html{
+
+  /* background-color: #e8dbec; */
+}
+
 .h1-page2{
   margin-top: 1px;
   font-weight: 800;
@@ -35,38 +40,38 @@
 
 }
 .uk-card-small-sbs{
-  background: linear-gradient(to bottom, rgba(229,229,229,0) 30%,rgba(64,59,119,0.99) 88%,rgba(64,59,119,1) 100%), url(../img/contestapp-assets/stepbystep.png); 
+  background: linear-gradient(to bottom, rgba(229,229,229,0) 30%,rgba(64,59,119,0.99) 88%,rgba(64,59,119,1) 100%), url(../img/2019-pages/stepbystep.png); 
   background-size: cover;
 }
 
 .uk-card-small-start{
-  background: linear-gradient(to bottom, rgba(229,229,229,0) 30%,rgba(64,59,119,0.99) 88%,rgba(64,59,119,1) 100%), url(../img/contestapp-assets/lip.png);
+  background: linear-gradient(to bottom, rgba(229,229,229,0) 30%,rgba(64,59,119,0.99) 88%,rgba(64,59,119,1) 100%), url(../img/2019-pages/greatstart.png);
   background-size: cover;
 }
 
 .uk-card-small-ledired{
-  background: linear-gradient(to bottom, rgba(229,229,229,0) 30%,rgba(64,59,119,0.99) 88%,rgba(64,59,119,1) 100%), url(../img/contestapp-assets/ledired.png);
+  background: linear-gradient(to bottom, rgba(229,229,229,0) 30%,rgba(64,59,119,0.99) 88%,rgba(64,59,119,1) 100%), url(../img/2019-pages/lady-red.png);
   background-size: cover;
 }
 
 .uk-card-small-elclub{
-  background: linear-gradient(to bottom, rgba(229,229,229,0) 30%,rgba(64,59,119,0.99) 88%,rgba(64,59,119,1) 100%), url(../img/contestapp-assets/scarf.png);
+  background: linear-gradient(to bottom, rgba(229,229,229,0) 30%,rgba(64,59,119,0.99) 88%,rgba(64,59,119,1) 100%), url(../img/2019-pages/elclub.png);
   background-size: cover;
 }
 .uk-card-small-star{
-  background: linear-gradient(to bottom, rgba(229,229,229,0) 30%,rgba(64,59,119,0.99) 88%,rgba(64,59,119,1) 100%), url(../img/contestapp-assets/star.png);
+  background: linear-gradient(to bottom, rgba(229,229,229,0) 30%,rgba(64,59,119,0.99) 88%,rgba(64,59,119,1) 100%), url(../img/2019-pages/star-club.png);
   background-size: cover;
 }
 
 .uk-card-small-semyear{
- background: linear-gradient(to bottom, rgba(229,229,229,0) 30%,rgba(64,59,119,0.99) 88%,rgba(64,59,119,1) 100%), url(../img/contestapp-assets/beeutton.png);
+ background: linear-gradient(to bottom, rgba(229,229,229,0) 30%,rgba(64,59,119,0.99) 88%,rgba(64,59,119,1) 100%), url(../img/2019-pages/seminar-awards.png);
  background-size: cover;
 }
 
 
 /* ////// SD*/
 .uk-card-small-sd-put{
-  background: linear-gradient(to bottom, rgba(229,229,229,0) 30%,rgba(64,59,119,0.99) 88%,rgba(64,59,119,1) 100%), url(../img/contestapp-assets/sd/1.jpg); 
+  background: linear-gradient(to bottom, rgba(229,229,229,0) 30%,rgba(64,59,119,0.99) 88%,rgba(64,59,119,1) 100%), url(../img/2019-pages/way.png); 
   background-size: cover;
 }
 
@@ -76,25 +81,31 @@
 }
 
 .uk-card-small-sd-g20{
-  background: linear-gradient(to bottom, rgba(229,229,229,0) 30%,rgba(64,59,119,0.99) 88%,rgba(64,59,119,1) 100%), url(../img/contestapp-assets/sd/3.jpg);
+  background: linear-gradient(to bottom, rgba(229,229,229,0) 30%,rgba(64,59,119,0.99) 88%,rgba(64,59,119,1) 100%), url(../img/2019-pages/g20.png);
   background-size: cover;
 }
 
 .uk-card-small-dallas{
-  background: linear-gradient(to bottom, rgba(229,229,229,0) 30%,rgba(64,59,119,0.99) 88%,rgba(64,59,119,1) 100%), url(../img/contestapp-assets/sd/4.jpg);
+  background: linear-gradient(to bottom, rgba(229,229,229,0) 30%,rgba(64,59,119,0.99) 88%,rgba(64,59,119,1) 100%), url(../img/2019-pages/dallas.png);
   background-size: cover;
 }
 .uk-card-small-sdstar{
-  background: linear-gradient(to bottom, rgba(229,229,229,0) 30%,rgba(64,59,119,0.99) 88%,rgba(64,59,119,1) 100%), url(../img/contestapp-assets/star.png);
+  background: linear-gradient(to bottom, rgba(229,229,229,0) 30%,rgba(64,59,119,0.99) 88%,rgba(64,59,119,1) 100%), url(../img/2019-pages/star-club.png);
   background-size: cover;
 }
 
 .uk-card-small-sdsemyear{
- background: linear-gradient(to bottom, rgba(229,229,229,0) 30%,rgba(64,59,119,0.99) 88%,rgba(64,59,119,1) 100%), url(../img/contestapp-assets/beeutton.png);
+ background: linear-gradient(to bottom, rgba(229,229,229,0) 30%,rgba(64,59,119,0.99) 88%,rgba(64,59,119,1) 100%), url(../img/2019-pages/seminar-awards.png);
  background-size: cover;
 }
 /* SD///// */
 
+/* .prize-1{
+  width: 350px;
+  min-height: 350px;
+  background: linear-gradient(to bottom, rgba(229,229,229,0) -9%,rgba(64,59,119,0.99) 137%,rgba(64,59,119,1) 100%), url(../img/sbs/sumka.jpg);
+  background-size: cover;
+} */
 
 
 
@@ -107,7 +118,13 @@
 }
 
 
-
+.uk-overlay-primary {
+  background: rgb(212, 77, 149,.7);
+  -webkit-box-shadow: 0px 0px 54px 5px rgba(0,0,0,0.33);
+-moz-box-shadow: 0px 0px 54px 5px rgba(0,0,0,0.33);
+box-shadow: 0px 0px 54px 5px rgba(0,0,0,0.33);
+padding: 10px;
+}
 
 
 
@@ -143,14 +160,11 @@ color: #fbf2f2;
   margin-top: 55px;
 }
 
-.my-overlay{
-  padding: 10px 30px;
 
-}
 .foto{
-width: 50%;
+/* width: 50%; */
     position: relative;
-    left: 77px;
+    /* left: 77px; */
 }
 
 .foto-grad{
@@ -198,4 +212,15 @@ width: 50%;
     height: 400px;
 }
 
+.my-overlay {
+  /* padding: 10px 30px; */
+  text-align: -webkit-left;
+  border-radius: 0px 50px 50px 0px;
+  width: fit-content;
+}
+
+.uk-position-bottom {
+  bottom: 30%;
+  left: 0;
+  right: 0;
 }

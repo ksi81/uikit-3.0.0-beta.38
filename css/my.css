@@ -1,18 +1,21 @@
 .body{
 	/* background-color: red; */
-	background: url(../img/contestapp-assets/bee_background.png);
+	background: url(../img/2019/backgroundMobile.png);
   background-size: cover;
   min-height: 100vh;
-
+  background-color: #d4d1e3;
 }
 
+.main-h1{
+  padding-top: 30px;
+  font-weight: 900;
+  color: rgba(64,59,119,0.99);
 
-/* .bgs{
-  background: url(../img/contestapp-assets/backgroundgreycircle.jpg);
-  background-size: contain;
-  /* background-color: red; */
-  /* min-height: 100vh; */
-
+}
+/* color acttive button */
+.button22:hover { 
+  background-color: #ee1682;
+}
 
 
 
@@ -118,7 +121,7 @@
       padding-top: 100px;
     }
     .body{
-      background: url(../img/contestapp-assets/bg1.jpg);
+      background: url(../img/2019/background_desktop.png);
       background-size: cover;
       min-height: 100vh;
 
