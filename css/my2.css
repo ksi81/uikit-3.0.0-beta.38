@@ -124,6 +124,7 @@ html{
 -moz-box-shadow: 0px 0px 54px 5px rgba(0,0,0,0.33);
 box-shadow: 0px 0px 54px 5px rgba(0,0,0,0.33);
 padding: 10px;
+    /* padding: 10px 10px; */
 }
 
 
@@ -182,8 +183,14 @@ color: #fbf2f2;
     height: 50%;
 } */
 
+.main-title{
+  padding: 10px 10px;
+/* font-size: 30rem; */
+}
 
-
+.uk-card-body {
+  padding: 1px;
+}
 
 @media only screen and (min-width: 768px) {
     .uk-card-small-one {
@@ -212,15 +219,20 @@ color: #fbf2f2;
     height: 400px;
 }
 
-.my-overlay {
-  /* padding: 10px 30px; */
-  text-align: -webkit-left;
-  border-radius: 0px 50px 50px 0px;
-  width: fit-content;
-}
+
 
 .uk-position-bottom {
   bottom: 30%;
   left: 0;
   right: 0;
+
 }
+.my-overlay {
+  /* padding: 10px 30px; */
+  text-align: -webkit-left;
+  border-radius: 0px 50px 50px 0px;
+  width: fit-content;
+  /* padding: 10px 10px; */
+}
+
+
