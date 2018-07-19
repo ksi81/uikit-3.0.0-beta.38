@@ -1,103 +1,110 @@
-html{
-
+html {
   /* background-color: #e8dbec; */
 }
 
-.h1-page2{
+.h1-page2 {
   margin-top: 1px;
   font-weight: 800;
   /* margin-left: -287px; */
   color: #420f79;
 }
-.uk-icon-page2 {
 
+.uk-icon-page2 {
   color: darkblue;
 }
-.uk-link-page2:hover, a:hover {
+
+.uk-link-page2:hover,
+a:hover {
   color: pink;
   text-decoration: underline;
 }
-.page2{
-  text-align: -webkit-center;
+
+.page2 {
+  margin: auto;
+  /* Выравниваем по центру */
 }
 
-.page2-main-block{
-  margin-bottom: 0;
-  text-align: -webkit-center;
+.page2-main-block {
   max-width: 310px;
-  text-align: center;
+  padding: 5px;
+  /* Поля вокруг текста */
+  margin: auto;
+  /* Выравниваем по центру */
+  display: block;
 }
 
-.uk-card-small-one{
+.uk-card-small-one {
   /* width: 300px;
   height: 300px; */
   width: 150px;
   height: 150px;
   display: -webkit-inline-box;
   border-radius: 5px;
-
-  background-size: cover;
-
-}
-.uk-card-small-sbs{
-  background: linear-gradient(to bottom, rgba(229,229,229,0) 30%,rgba(64,59,119,0.99) 88%,rgba(64,59,119,1) 100%), url(../img/2019-pages/stepbystep.png); 
   background-size: cover;
 }
 
-.uk-card-small-start{
-  background: linear-gradient(to bottom, rgba(229,229,229,0) 30%,rgba(64,59,119,0.99) 88%,rgba(64,59,119,1) 100%), url(../img/2019-pages/greatstart.png);
+.uk-card-small-sbs {
+  background: linear-gradient(to bottom, rgba(229, 229, 229, 0) 30%, rgba(64, 59, 119, 0.99) 88%, rgba(64, 59, 119, 1) 100%), url(../img/2019-pages/stepbystep.png);
   background-size: cover;
 }
 
-.uk-card-small-ledired{
-  background: linear-gradient(to bottom, rgba(229,229,229,0) 30%,rgba(64,59,119,0.99) 88%,rgba(64,59,119,1) 100%), url(../img/2019-pages/lady-red.png);
+.uk-card-small-start {
+  background: linear-gradient(to bottom, rgba(229, 229, 229, 0) 30%, rgba(64, 59, 119, 0.99) 88%, rgba(64, 59, 119, 1) 100%), url(../img/2019-pages/greatstart.png);
   background-size: cover;
 }
 
-.uk-card-small-elclub{
-  background: linear-gradient(to bottom, rgba(229,229,229,0) 30%,rgba(64,59,119,0.99) 88%,rgba(64,59,119,1) 100%), url(../img/2019-pages/elclub.png);
-  background-size: cover;
-}
-.uk-card-small-star{
-  background: linear-gradient(to bottom, rgba(229,229,229,0) 30%,rgba(64,59,119,0.99) 88%,rgba(64,59,119,1) 100%), url(../img/2019-pages/star-club.png);
+.uk-card-small-ledired {
+  background: linear-gradient(to bottom, rgba(229, 229, 229, 0) 30%, rgba(64, 59, 119, 0.99) 88%, rgba(64, 59, 119, 1) 100%), url(../img/2019-pages/lady-red.png);
   background-size: cover;
 }
 
-.uk-card-small-semyear{
- background: linear-gradient(to bottom, rgba(229,229,229,0) 30%,rgba(64,59,119,0.99) 88%,rgba(64,59,119,1) 100%), url(../img/2019-pages/seminar-awards.png);
- background-size: cover;
+.uk-card-small-elclub {
+  background: linear-gradient(to bottom, rgba(229, 229, 229, 0) 30%, rgba(64, 59, 119, 0.99) 88%, rgba(64, 59, 119, 1) 100%), url(../img/2019-pages/elclub.png);
+  background-size: cover;
 }
 
+.uk-card-small-star {
+  background: linear-gradient(to bottom, rgba(229, 229, 229, 0) 30%, rgba(64, 59, 119, 0.99) 88%, rgba(64, 59, 119, 1) 100%), url(../img/2019-pages/star-club.png);
+  background-size: cover;
+}
+
+.uk-card-small-semyear {
+  background: linear-gradient(to bottom, rgba(229, 229, 229, 0) 30%, rgba(64, 59, 119, 0.99) 88%, rgba(64, 59, 119, 1) 100%), url(../img/2019-pages/seminar-awards.png);
+  background-size: cover;
+}
 
 /* ////// SD*/
-.uk-card-small-sd-put{
-  background: linear-gradient(to bottom, rgba(229,229,229,0) 30%,rgba(64,59,119,0.99) 88%,rgba(64,59,119,1) 100%), url(../img/2019-pages/way.png); 
+
+.uk-card-small-sd-put {
+  background: linear-gradient(to bottom, rgba(229, 229, 229, 0) 30%, rgba(64, 59, 119, 0.99) 88%, rgba(64, 59, 119, 1) 100%), url(../img/2019-pages/way.png);
   background-size: cover;
 }
 
-.uk-card-small-sd-klub{
-  background: linear-gradient(to bottom, rgba(229,229,229,0) 30%,rgba(64,59,119,0.99) 88%,rgba(64,59,119,1) 100%), url(../img/contestapp-assets/sd/2.jpg);
+.uk-card-small-sd-klub {
+  background: linear-gradient(to bottom, rgba(229, 229, 229, 0) 30%, rgba(64, 59, 119, 0.99) 88%, rgba(64, 59, 119, 1) 100%), url(../img/contestapp-assets/sd/2.jpg);
   background-size: cover;
 }
 
-.uk-card-small-sd-g20{
-  background: linear-gradient(to bottom, rgba(229,229,229,0) 30%,rgba(64,59,119,0.99) 88%,rgba(64,59,119,1) 100%), url(../img/2019-pages/g20.png);
+.uk-card-small-sd-g20 {
+  background: linear-gradient(to bottom, rgba(229, 229, 229, 0) 30%, rgba(64, 59, 119, 0.99) 88%, rgba(64, 59, 119, 1) 100%), url(../img/2019-pages/g20.png);
   background-size: cover;
 }
 
-.uk-card-small-dallas{
-  background: linear-gradient(to bottom, rgba(229,229,229,0) 30%,rgba(64,59,119,0.99) 88%,rgba(64,59,119,1) 100%), url(../img/2019-pages/dallas.png);
-  background-size: cover;
-}
-.uk-card-small-sdstar{
-  background: linear-gradient(to bottom, rgba(229,229,229,0) 30%,rgba(64,59,119,0.99) 88%,rgba(64,59,119,1) 100%), url(../img/2019-pages/star-club.png);
+.uk-card-small-dallas {
+  background: linear-gradient(to bottom, rgba(229, 229, 229, 0) 30%, rgba(64, 59, 119, 0.99) 88%, rgba(64, 59, 119, 1) 100%), url(../img/2019-pages/dallas.png);
   background-size: cover;
 }
 
-.uk-card-small-sdsemyear{
- background: linear-gradient(to bottom, rgba(229,229,229,0) 30%,rgba(64,59,119,0.99) 88%,rgba(64,59,119,1) 100%), url(../img/2019-pages/seminar-awards.png);
- background-size: cover;
+.uk-card-small-sdstar {
+  background: linear-gradient(to bottom, rgba(229, 229, 229, 0) 30%, rgba(64, 59, 119, 0.99) 88%, rgba(64, 59, 119, 1) 100%), url(../img/2019-pages/star-club.png);
+  background-size: cover;
 }
+
+.uk-card-small-sdsemyear {
+  background: linear-gradient(to bottom, rgba(229, 229, 229, 0) 30%, rgba(64, 59, 119, 0.99) 88%, rgba(64, 59, 119, 1) 100%), url(../img/2019-pages/seminar-awards.png);
+  background-size: cover;
+}
+
 /* SD///// */
 
 /* .prize-1{
@@ -107,8 +114,6 @@ html{
   background-size: cover;
 } */
 
-
-
 .page2-h5 {
   color: white;
   position: absolute;
@@ -117,35 +122,30 @@ html{
   text-align: left;
 }
 
-
 .uk-overlay-primary {
-  background: rgb(212, 77, 149,.7);
-  -webkit-box-shadow: 0px 0px 54px 5px rgba(0,0,0,0.33);
--moz-box-shadow: 0px 0px 54px 5px rgba(0,0,0,0.33);
-box-shadow: 0px 0px 54px 5px rgba(0,0,0,0.33);
-padding: 10px;
-    /* padding: 10px 10px; */
+  background: rgb(212, 77, 149, .7);
+  -webkit-box-shadow: 0px 0px 54px 5px rgba(0, 0, 0, 0.33);
+  -moz-box-shadow: 0px 0px 54px 5px rgba(0, 0, 0, 0.33);
+  box-shadow: 0px 0px 54px 5px rgba(0, 0, 0, 0.33);
+  padding: 10px;
+  /* padding: 10px 10px; */
 }
 
-
-
-
 .prog-name {
- position: absolute;
+  position: absolute;
   opacity: 0.8;
- box-shadow: 5px 5px 20px rgba(0,0,0,0.5);
- border-radius: 0 35px 35px 0;
- background-color: rgb(238, 77, 155);
- opacity: 0.8;
-color: #fbf2f2;
- border-radius: 35px;
- border: none;
- box-shadow: 5px 5px 20px rgba(0,0,0,0.5);
+  box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.5);
   border-radius: 0 35px 35px 0;
- }
+  background-color: rgb(238, 77, 155);
+  opacity: 0.8;
+  color: #fbf2f2;
+  border-radius: 35px;
+  border: none;
+  box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.5);
+  border-radius: 0 35px 35px 0;
+}
 
-
-.zzz{
+.zzz {
   position: relative;
   background-color: rgb(238, 77, 155);
   opacity: 0.7;
@@ -157,19 +157,18 @@ color: #fbf2f2;
   font-size: 1rem;
 }
 
-.uk-position-top-center{
+.uk-position-top-center {
   margin-top: 55px;
 }
 
-
-.foto{
-/* width: 50%; */
-    position: relative;
-    /* left: 77px; */
+.foto {
+  /* width: 50%; */
+  position: relative;
+  /* left: 77px; */
 }
 
-.foto-grad{
-  background: linear-gradient(to bottom, rgba(229,229,229,0) 0%,rgba(64,59,119,0.99) 99%,rgba(64,59,119,1) 100%);
+.foto-grad {
+  background: linear-gradient(to bottom, rgba(229, 229, 229, 0) 0%, rgba(64, 59, 119, 0.99) 99%, rgba(64, 59, 119, 1) 100%);
 }
 
 /* .fotocolie{
@@ -183,9 +182,9 @@ color: #fbf2f2;
     height: 50%;
 } */
 
-.main-title{
+.main-title {
   padding: 10px 10px;
-/* font-size: 30rem; */
+  /* font-size: 30rem; */
 }
 
 .uk-card-body {
@@ -193,46 +192,35 @@ color: #fbf2f2;
 }
 
 @media only screen and (min-width: 768px) {
-    .uk-card-small-one {
-    
-  width: 300px;
-  height: 300px;
-    }
-
-    .page2-main-block{
-
-  max-width: 910px;
-}
-.page2-h5 {
-   
+  .uk-card-small-one {
+    width: 300px;
+    height: 300px;
+  }
+  .page2-main-block {
+    max-width: 910px;
+    display: block;
+  }
+  .page2-h5 {
     padding: 220px 8px 0 5px;
     font-size: 25px;
     text-align: left;
-}
-
-
-.opisanie{
-  padding: 0 20%;
-}
-.fotobracelet{
-  width: 400px;
+  }
+  .opisanie {
+    padding: 0 20%;
+  }
+  .fotobracelet {
+    width: 400px;
     height: 400px;
-}
-
-
-
-.uk-position-bottom {
-  bottom: 30%;
-  left: 0;
-  right: 0;
-
-}
-.my-overlay {
-  /* padding: 10px 30px; */
-  text-align: -webkit-left;
-  border-radius: 0px 50px 50px 0px;
-  width: fit-content;
-  /* padding: 10px 10px; */
-}
-
-
+  }
+  .uk-position-bottom {
+    bottom: 30%;
+    left: 0;
+    right: 0;
+  }
+  .my-overlay {
+    /* padding: 10px 30px; */
+    text-align: -webkit-left;
+    border-radius: 0px 50px 50px 0px;
+    width: fit-content;
+    /* padding: 10px 10px; */
+  }
