@@ -5,10 +5,14 @@
    min-height: 100vh;
  }
 
- .body-footer{
-  padding-top: 7px;
+ .body-footer {
+   padding-top: 7px;
  }
 
+ .menu-pages {
+   padding-bottom: 7px;
+   padding-top: 7px;
+ }
 
  .main-h1 {
    padding-top: 10px;
@@ -16,7 +20,6 @@
    color: rgba(64, 59, 119, 0.99);
    font-size: xx-large;
  }
-
 
  .button22:hover {
    background-color: #ee1682;
@@ -78,7 +81,6 @@
  .button22 {
    background-color: rgb(238, 77, 155);
    opacity: 0.8;
-   /* box-shadow: 0px 0px 32px 0px rgba(0, 0, 0, 0.29); */
    z-index: 103;
    color: #fbf2f2;
    width: 300px;
@@ -111,9 +113,22 @@
    /* Ширина слоя */
  }
 
+ .my-icon {
+   color: #45417b;
+ }
+
+ .uk-child {
+   box-sizing: border-box;
+   width: 50%;
+ }
+
+ .my-photo {
+   width: 50%;
+ }
+
  @media only screen and (min-width: 800px) {
    footer {
-     padding-top: 100px;
+     padding-top: 50px;
    }
    .body-main {
      background: url(../img/2019/background_desktop.png);
@@ -122,7 +137,7 @@
      background-repeat: no-repeat;
    }
    .mainprog {
-     padding-top: 50px;
+     padding-top: 40px;
    }
    .mainprog2 {
      padding-top: 50px;
@@ -132,5 +147,11 @@
      padding-top: 10px;
      font-weight: 900;
      color: rgba(64, 59, 119, 0.99);
+   }
+   .uk-child-width-1-2\@s>* {
+     width: 25%;
+   }
+   .my-photo {
+     width: 25%;
    }
  }
