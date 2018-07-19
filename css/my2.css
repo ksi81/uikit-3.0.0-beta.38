@@ -207,6 +207,7 @@ a:hover {
     text-align: left;
   }
   .opisanie {
+    max-width: 1000px;
     padding: 0 20%;
   }
   .fotobracelet {
