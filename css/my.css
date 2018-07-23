@@ -138,6 +138,9 @@
 .my-scroll a:hover {
   background-color: #cf57ab98;
 }
+.my-scroll a::selection {
+  background-color: #cf57ab98;
+}
 
 
  @media only screen and (min-width: 800px) {
