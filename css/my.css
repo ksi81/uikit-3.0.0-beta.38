@@ -114,7 +114,7 @@
  }
 
  .my-icon {
-   color: #45417b;
+   color: #d112b8;
  }
 
  .uk-child {
@@ -130,7 +130,7 @@
  }
 
  .my-scroll a{
-  background: rgb(228, 205, 217, 0.5);
+  background: rgba(228, 205, 217, 0.5);
   -webkit-box-shadow: 0px 0px 20px 2px rgba(0, 0, 0, 0.33);
   -moz-box-shadow: 0px 0px 20px 1px rgba(0, 0, 0, 0.33);
   box-shadow: 0px 0px 20px 1px rgba(0, 0, 0, 0.33);
