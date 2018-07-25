@@ -129,7 +129,11 @@
   text-align: right;
   position: relative;
     z-index: 20;
-    top: -36px;
+    top: -16px;
+    color: #d112b8
+}
+.up-button{
+  color: #d112b8
 }
  
 
