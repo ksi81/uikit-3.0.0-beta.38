@@ -157,6 +157,13 @@
   background-color: #cf57ab98;
 }
 
+.my-title-bracelet{
+  position: relative;
+  z-index: 20;
+    top: -30px;
+  color: rgba(64,59,119,0.99)
+}
+
 
  @media only screen and (min-width: 800px) {
    footer {
@@ -186,4 +193,9 @@
    .my-photo {
      width: 50%;
    }
+   .my-title-bracelet{
+       top: 10px;
+       font-size: 20px;
+    
+  }
  }
