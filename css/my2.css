@@ -162,6 +162,12 @@ a:hover {
   padding: 1px;
 }
 
+.my-uk-card{
+width: 65%;
+text-align: center;
+}
+
+
 @media only screen and (min-width: 768px) {
   .uk-card-small-one {
     width: 300px;
