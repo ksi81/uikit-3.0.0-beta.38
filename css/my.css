@@ -130,7 +130,9 @@
   position: relative;
     z-index: 20;
     top: -16px;
-    color: #d112b8
+    color: #d112b8;
+    margin-bottom: 20px;
+    
 }
 .up-button{
   color: #d112b8
