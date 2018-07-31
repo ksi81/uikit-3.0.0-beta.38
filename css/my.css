@@ -170,6 +170,9 @@
 .uk-lightbox-caption {
 margin-bottom: 444px;
 }
+.uk-transition-slide-bottom {
+   transform: none;
+}
 
  @media only screen and (min-width: 800px) {
    footer {
@@ -204,4 +207,8 @@ margin-bottom: 444px;
        font-size: 20px;
     
   }
+
+  .uk-lightbox-caption {
+    margin-bottom: 24px;
+    }
  }
