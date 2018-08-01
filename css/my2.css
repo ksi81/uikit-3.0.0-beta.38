@@ -167,6 +167,11 @@ width: 65%;
 text-align: center;
 }
 
+.my-overlay {
+ 
+  width: -moz-max-content;
+  /* width: -webkit-max-content; */
+}
 
 @media only screen and (min-width: 768px) {
   .uk-card-small-one {
@@ -201,10 +206,14 @@ text-align: center;
 
   .my-overlay {
     min-width: 250px;
+    max-width: 68%;
+    width: -moz-max-content;
+    width: -webkit-max-content;
     /* padding: 10px 30px; */
     text-align: left;
     border-radius: 0px 50px 50px 0px;
-    width: fit-content;
+    
+
     /* padding: 10px 10px; */
   }
   .page2-h5 {
